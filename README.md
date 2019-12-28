@@ -37,7 +37,7 @@ Python web scraper based on Scrapy framework for obtaining recipe data from most
 
     ```
  
- 5. Launch scrapy
+ 5. Navigate to /cookpad directory, launch scrapy
     
     - Save recipes to postgreSQL database :
     
