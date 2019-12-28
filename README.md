@@ -1,6 +1,6 @@
 # Recipebot
 
-[![License](https://img.shields.io/github/license/MaciejTe/recipebot.svg?maxAge=2592000)](https://github.com/MaciejTe/recipebot/LICENSE)
+[![License](https://img.shields.io/github/license/MaciejTe/recipebot.svg?maxAge=2592000)](https://github.com/MaciejTe/recipebot/blob/master/LICENSE)
 
 Python web scraper based on Scrapy framework for obtaining recipe data from most popular cooking websites.
 
